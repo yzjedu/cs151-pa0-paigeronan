@@ -1,0 +1,7 @@
+PA00 reflection
+
+This project was the first time I used PyCharm on my mac
+which led to many new problems that I had to figure out. There
+were new challenges when using PyCharm on my mac because it is
+not the same as pc. I had to make sure that I was using the correct
+interpreter and how create new files for the code and reflection.
